@@ -64,19 +64,6 @@ To run this backend on your local machine, follow these steps:
 #### Installing new npm packages
 - New packages can be installed through your preferred terminal using the normal `npm i` command.
 
-## Database Diagram
-
-<img src="https://i.ibb.co/wNPdS4S/PageTalk.png">
-
-## How JWT Works
-
-<img src="https://i.stack.imgur.com/b2dzI.png" alt="JWT Working Showcase">
-
-## How JWT is used
-
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210925202132/Untitled1-660x404.png">
-Credits: GeeksForGeeks
-
 ## Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
