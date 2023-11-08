@@ -1,6 +1,6 @@
 # PageTalk
 
-Welcome to the PageTalk project. PageTalk allows users to upload PDFs and receive summaries, along with query-based responses.
+Welcome to the PageTalk project. PageTalk allows users to upload PDFs and receive summaries, along with query-based responses. This is still a work-in-progress.
 
 ## Contributors:
 
