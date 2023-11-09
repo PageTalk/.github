@@ -2,6 +2,10 @@
 
 Welcome to the PageTalk project. PageTalk allows users to upload PDFs and receive summaries, along with query-based responses. This is still a work-in-progress.
 
+## Visit the Frontend (in-progress:
+
+https://frontend-pagetalk.vercel.app
+
 ## Contributors:
 
 - <a href="https://github.com/shxntanu">Shantanu Wable</a>
